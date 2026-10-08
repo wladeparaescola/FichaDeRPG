@@ -1,13 +1,16 @@
 # 📁 Ficha de RPG - Front-End
 
-Este é meu projeto desenvolvido durante a disciplina de **Tecnologia Web - Engenharia da Computação**. Trata-se de uma ficha de personagem de RPG inspirada no personagem Mario, apresentando suas características, atributos, inventário e conquistas.
+Este é meu projeto desenvolvido durante a disciplina de **Tecnologia Web - Engenharia da Computação (Front-End)**. Trata-se de uma ficha de personagem de RPG inspirada no personagem Mario, apresentando suas características, atributos, inventário e conquistas.
 
 
 ## 📌 Sobre o Projeto
 
-Este projeto foi desenvolvido com foco em aplicar os conhecimentos de HTML5, CSS3 e JavaScript.
+Este site foi criado com foco em aplicar os conhecimentos de **HTML**, **CSS**, **JavaScript**, **Flexbox**, **responsividade** e **publicação com GitHub Pages**.
 
-A página apresenta uma ficha de personagem organizada em diferentes seções, permitindo visualizar as informações do personagem de forma simples e organizada.
+O projeto foi dividido em duas fases:
+- **Parte 1 (Semana 5):** Estruturação HTML e protótipo no Figma.
+- **Parte 2 (Semana 11):** Finalização com estilização, responsividade, interatividade e publicação online.
+
 
 ---
 
@@ -35,13 +38,13 @@ A página apresenta uma ficha de personagem organizada em diferentes seções, p
 
 - HTML5
 
-- CSS3
+- CSS3 + Flexbox
 
-- Flexbox
+- JavaScript (básico)
 
-- CSS Grid
+- Git + GitHub
 
-- JavaScript
+- GitHub Pages (para publicação)
 
 ---
 
