@@ -85,4 +85,4 @@ Este projeto é de uso educacional, desenvolvido como parte da disciplina **Tecn
 
 Turma: [SUA TURMA]
 
-GitHub: [https://github.com/seuusuario](https://github.com/seuusuario)
+GitHub: [https://github.com/seuusuario](https://github.com/wladeparaescola)
