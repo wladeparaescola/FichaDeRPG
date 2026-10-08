@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="script.js"></script>
+    <title>Ficha de RPG</title>
+</head>
+
+<body>
+
+    <header class="header">
+        <h1>Ficha de Personagem</h1>
+        <nav class="nav">
+            <a href="#sobre">Sobre</a>
+            <a href="#atributos">Atributos</a>
+            <a href="#inventario">Inventário</a>
+            <a href="#conquistas">Conquistas</a>
+            <a href="#contato">Contato</a>
+        </nav>
+        <button class="botao" onclick="modoEscuro()">🌙 Modo Escuro</button>
+    </header>
+
+    <main>
+
+    <section class="Perso" id="sobre">
+        <img src="imagens/Mario.png" alt="Imagem do Mario">
+        <h2>Mario</h2>
+        <section class="infoPerso">
+            <h2><b>Classe: Herói</b></h2>
+            <h2>Espécie: Humano</h2>
+            <h2>Origem: Reino do Cogumelo</h2>
+        </section>
+
+    </section>
+
+    <section class="sobrePerso">
+        <h2>Resumo do Personagem</h2>
+        <p>Mario é um aventureiro humano de grande coragem e determinação. Apesar de sua baixa estatura, possui
+            excelente força física, agilidade e resistência. É conhecido por enfrentar criaturas perigosas, atravessar
+            territórios hostis e superar obstáculos usando sua habilidade de salto e seus diversos equipamentos
+            especiais. Sua personalidade é amigável e otimista, mas não hesita em entrar em combate quando seus aliados
+            estão em perigo. Mario se destaca principalmente pela sua capacidade de adaptação, aproveitando diferentes
+            itens e poderes para superar seus adversários.</p>
+    </section>
+
+    <section class="Atributos" id="atributos">
+        <h2>Atributos & Habilidades</h2>
+
+        <h2>❤️ Vitalidade</h2>
+        <div class="barraInteira">
+            <div class="barraPreenchida vitalidade"></div>
+        </div>
+
+        <h2>💪 Força</h2>
+        <div class="barraInteira">
+            <div class="barraPreenchida forca"></div>
+        </div>
+
+        <h2>🏎️ Agilidade</h2>
+        <div class="barraInteira">
+            <div class="barraPreenchida agilidade"></div>
+        </div>
+
+        <h2>🛡️ Defesa</h2>
+        <div class="barraInteira">
+            <div class="barraPreenchida defesa"></div>
+        </div>
+
+    </section>
+
+    <section class="secGrid" id="inventario">
+        <h2>Inventário</h2>
+        <section class="tabela">
+            <section class="item">
+                <img src="imagens/coguVerde.png" alt="Cogumelo Verde">
+                <p>Descrição: Restaura parte da vitalidade do herói.
+                    <br>Raridade: Comum
+                </p>
+            </section>
+            <section class="item">
+                <img src="imagens/florFogo.png" alt="Flor de Fogo">
+                <p>Descrição: Concede ao herói o poder de lançar bolas de fogo contra seus inimigos.
+                    <br>Raridade: Raro
+                </p>
+            </section>
+            <section class="item">
+                <img src="imagens/estrela.png" alt="Estrela">
+                <p>Descrição: Torna o herói temporariamente invencível, permitindo enfrentar inimigos sem sofrer dano.
+                    <br>Raridade: Lendário.
+                </p>
+            </section>
+            <section class="item">
+                <img src="imagens/coguVerm.png" alt="Cogumelo Vermelho">
+                <p>Descrição: Aumenta a resistência e fortalece o herói, permitindo suportar mais danos.
+                    <br>Raridade: Incomum
+                </p>
+            </section>
+
+        </section>
+
+    </section>
+
+    <section class="secGrid" id="conquistas">
+        <h2>Conquistas</h2>
+        <section class="tabela">
+            <section class="item">
+                <img src="imagens/marioSaving.png" alt="Mario salvando a Princesa Peach.">
+                <p>Resgatou a Princesa Peach</p>
+            </section>
+
+            <section class="item">
+                <img src="imagens/marioBowser.png" alt="Mario derrotando o Bowser.">
+                <p>Derrotou Bowser</p>
+            </section>
+
+            <section class="item">
+                <img src="imagens/marioKart.png" alt="Mario correndo em um Kart.">
+                <p>Ganhou diversas corridas</p>
+            </section>
+
+            <section class="item">
+                <img src="imagens/MarioLuigi.png" alt="Mario e Luigi.">
+                <p>É irmão do Mario Verde.</p>
+            </section>
+        </section>
+
+    </section>
+
+    </main>
+
+    <footer id="contato">
+        <section class="divisaoFoot">
+            <section class="secFoot">
+                <h2>Contato</h2>
+                <p>Email: *******@gmail.com</p>
+                <p>Telefone: +55 (13) ***** - ****</p>
+                <p>Localização: Reino do Cogumelo</p>
+            </section>
+
+            <section class="secFoot">
+                <h2>Redes Sociais</h2>
+                <a href="#" target="_blank">
+                    <h3>Discord</h3>
+                </a>
+                <a href="#" target="_blank">
+                    <h3>Instagram</h3>
+                </a>
+                <a href="#" target="_blank">
+                    <h3>Facebook</h3>
+                </a>
+            </section>
+
+            <section class="secFoot">
+                <h2>Ficha do Personagem</h2>
+                <p>Mario #001</p>
+                <p>Classe: Herói</p>
+                <p>Status: Ativo</p>
+
+            </section>
+        </section>
+
+        <section id="fim">
+            <h2>Ficha de RPG • Projeto acadêmico • 2026</h2>
+        </section>
+
+
+    </footer>
+
+</body>
+
+</html>
