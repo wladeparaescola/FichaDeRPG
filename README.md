@@ -58,9 +58,9 @@ Link para o protótipo utilizado como referência no desenvolvimento do projeto:
 
 ## 🔗 Acesso ao Projeto
 
-- **GitHub Pages:** [Clique aqui para acessar o site](COLOQUE-O-LINK-AQUI)
+- **GitHub Pages:** [Clique aqui para acessar o site](https://github.com/wladeparaescola/FichaDeRPG.git)
 
-- **Repositório GitHub:** [Acesse o código-fonte aqui](COLOQUE-O-LINK-AQUI)
+- **Repositório GitHub:** [Acesse o código-fonte aqui](https://github.com/wladeparaescola/FichaDeRPG.git)
 
 ---
 
